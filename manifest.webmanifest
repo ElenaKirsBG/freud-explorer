@@ -1,0 +1,15 @@
+{
+  "name": "Фрейд — поиск по книгам",
+  "short_name": "Фрейд",
+  "description": "Поиск по текстам Фрейда с пояснениями и ссылками на источники",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f0e7",
+  "theme_color": "#e9e1d4",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
